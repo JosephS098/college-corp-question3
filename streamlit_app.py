@@ -4,9 +4,9 @@ st.set_page_config(page_title="Question 1", page_icon="🧠")
 st.title("🧩 Interactive Quiz — Question 1")
 
 
-question = "What is 5 + 3?"
-choices = ["6", "7", "8", "9"]
-correct_answer = "8"
+question = "How many campuses have a College Corps Program?"
+choices = ["39", "41", "42", "44"]
+correct_answer = "44"
 success_message = "✅ Correct! Great job!"
 try_again_message = "❌ Try again!"
 
